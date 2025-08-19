@@ -1,0 +1,17 @@
+{
+  "appTitle": "Personal Task Manager",
+  "taskListEmpty": "No tasks yet!",
+  "tasksTab": "Tasks",
+  "statsTab": "Statistics",
+  "settingsTab": "Settings",
+  "addTask": "Add Task",
+  "editTask": "Edit Task",
+  "title": "Title",
+  "description": "Description",
+  "deadline": "Deadline",
+  "save": "Save",
+  "completedTasks": "Completed Tasks",
+  "restore": "Restore",
+  "delete": "Delete",
+  "totalCompleted": "Total completed: {count}"
+}

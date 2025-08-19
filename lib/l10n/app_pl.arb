@@ -1,0 +1,17 @@
+{
+  "appTitle": "Menedżer Zadań Osobistych",
+  "taskListEmpty": "Brak zadań!",
+  "tasksTab": "Zadania",
+  "statsTab": "Statystyki",
+  "settingsTab": "Ustawienia",
+  "addTask": "Dodaj zadanie",
+  "editTask": "Edytuj zadanie",
+  "title": "Tytuł",
+  "description": "Opis",
+  "deadline": "Termin",
+  "save": "Zapisz",
+  "completedTasks": "Wykonane zadania",
+  "restore": "Przywróć",
+  "delete": "Usuń",
+  "totalCompleted": "Łącznie wykonanych: {count}"
+}
